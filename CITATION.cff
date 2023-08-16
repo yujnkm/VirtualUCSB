@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kim"
+  given-names: "You-Jin"
+  orcid: "https://orcid.org/0000-0003-0903-8999"
+- family-names: "Kumaran"
+  given-names: "Radha"
+  orcid: "https://orcid.org/0000-0001-7161-3048"
+title: "UCSB_3D"
+version: 1.0.1
+url: "https://github.com/yujnkm/UCSB_3D"
+doi: 10.5281/zenodo.6565136
+date-released: 2021-11-04
+
