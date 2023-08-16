@@ -1,4 +1,12 @@
 # VirtualUCSB
+<img
+  src="ucsb_logo.png?raw=true"
+  alt="Screenshot of Unity 2018 showing the inspector with Readme content."
+  width="880"
+  height="70"
+/>
+
+
 
 Send an email to yujnkm@engineering.ucsb.edu if you are interested in helping to complete the creation of the UCSB digital twin by adding a part of the 3D model of the campus.
 
@@ -38,7 +46,15 @@ RECVEB - justin_kasowski@ucsb.edu
 
 Student Affairs - yujnkm@engineering.ucsb.edu
 
-justin_kasowski
+## License & Citation
+This repository contains models we constructed with a lot of care and effort. If you use the 3D model in your research, please cite us using ***Cite this repository*** found in the repository landing page.
+
+<img
+  src="5_1.png?raw=true"
+  alt="How to cite our work."
+  width="880"
+  height="400"
+/>
 
 To cite our work use:
 Kim, Y., & Kasowski, J. (2023). UCSB_3D Campus (Version 1.0.1) [Computer software]. available at: https://github.com/yujnkm/VirtualUCSB (accessed 16 August 2023).
