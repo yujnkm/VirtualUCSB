@@ -46,6 +46,28 @@ RECVEB - justin_kasowski@ucsb.edu
 
 Student Affairs - yujnkm@engineering.ucsb.edu
 
+<img
+  src="1_3.png?raw=true"
+  alt="Map location shown in Google map."
+  width="880"
+  height="450"
+/>
+
+<img
+  src="2_3.png?raw=true"
+  alt="Map location shown in Google map."
+  width="880"
+  height="450"
+/>
+
+<img
+  src="3_3.png?raw=true"
+  alt="Map location shown in Google map."
+  width="880"
+  height="450"
+/>
+
+
 ## License & Citation
 This repository contains models we constructed with a lot of care and effort. If you use the 3D model in your research, please cite us using ***Cite this repository*** found in the repository landing page.
 
