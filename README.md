@@ -27,12 +27,20 @@ duplicate of the entire UCSB model in 'Environment->vrtucsb.fbx' to make sure yo
 
 Currently in progress/finished:
 
-Kirby Crossing - yujnkm@ucsb.edu
+Kirby Crossing - yujnkm@engineering.ucsb.edu
 
-Life Sciences - yujnkm@ucsb.edu
+Life Sciences - yujnkm@engineering.ucsb.edu
 
-Noble Hall - yujnkm@ucsb.edu
+Noble Hall - yujnkm@engineering.ucsb.edu
 
 RECVEB - justin_kasowski@ucsb.edu
 
-Student Affairs - yujnkm@ucsb.edu
+Student Affairs - yujnkm@engineering.ucsb.edu
+
+
+
+To cite our work use:
+Kim, Y., & Kumaran, R. (2021). UCSB_3D Campus (Version 1.0.1) [Computer software]. available at: https://github.com/yujnkm/UCSB_3D (accessed 19 May 2022).
+https://doi.org/10.5281/zenodo.6565136
+
+Read the [license](LICENSE.md).
