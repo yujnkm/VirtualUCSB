@@ -38,10 +38,10 @@ RECVEB - justin_kasowski@ucsb.edu
 
 Student Affairs - yujnkm@engineering.ucsb.edu
 
-
+justin_kasowski
 
 To cite our work use:
-Kim, Y., & Kumaran, R. (2021). UCSB_3D Campus (Version 1.0.1) [Computer software]. available at: https://github.com/yujnkm/UCSB_3D (accessed 19 May 2022).
+Kim, Y., & Kasowski, J. (2023). UCSB_3D Campus (Version 1.0.1) [Computer software]. available at: https://github.com/yujnkm/VirtualUCSB (accessed 16 August 2023).
 https://doi.org/10.5281/zenodo.6565136
 
 Read the [license](LICENSE.md).
