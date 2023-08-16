@@ -4,7 +4,8 @@ Send an email to yujnkm@engineering.ucsb.edu if you are interested in helping to
 
 We will have a complete 3D model of the UC Santa Barbara campus in no time with the help of muVRr members and contributors!
 
-To join Mentoring Unity for Virtual Reality Research Slack channel, use the following link: https://join.slack.com/t/mentoringunit-bxf6776/shared_invite/zt-21c02iehy-L03kupdUtrbRpK2L_Gq1cA
+To join Mentoring Unity for Virtual Reality Research Slack channel, use the following link: 
+https://join.slack.com/t/mentoringunit-bxf6776/shared_invite/zt-21c02iehy-L03kupdUtrbRpK2L_Gq1cA
 
 We are currently using Unity 2022.2.0b10
 
